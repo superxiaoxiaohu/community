@@ -2,7 +2,7 @@
 
 
 ##资料
-www.hao123.com
-www.baidu.com
+[a](www.hao123.com)
+[a](www.baidu.com)
 
 ##工具
